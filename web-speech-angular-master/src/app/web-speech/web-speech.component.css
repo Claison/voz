@@ -1,0 +1,19 @@
+.speech-result-width {
+  width: 90%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.center {
+  padding: 10px;
+  text-align: center;
+}
+
+.mat-input-element:disabled {
+  color: rgba(0,0,0,.9);
+}
+
+.notification {
+  margin-left: 20px;
+  margin-right: 20px;
+}
